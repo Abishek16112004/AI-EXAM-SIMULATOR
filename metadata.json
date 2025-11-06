@@ -1,0 +1,8 @@
+{
+  "name": "Nov 6 Copy of AI Clinical Exam Simulator",
+  "description": "An AI-powered clinical exam simulator where a student can interact with an AI standardized patient, with live transcription for all participants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
